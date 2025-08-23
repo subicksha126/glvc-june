@@ -1,1 +1,2 @@
-# glvc-june
+# project development
+# developers
